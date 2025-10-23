@@ -37,22 +37,33 @@ Always learning, exploring, and contributing to the cybersecurity space. Current
 
 ## 📜 Certifications
 
-- Cisco Cybersecurity Essentials – Cisco Networking Academy (2025)
-- Indian Servers – Cybersecurity Internship (2024)
+- Cisco Cybersecurity Essentials – Cisco Networking Academy (2025) - [](https://drive.google.com/file/d/1Fvxu0XvNj8d-j9QbLiwDqP8VU1by1ZbG/view)
+- Indian Servers – Cybersecurity Internship (2024) - [](https://drive.google.com/file/d/1MnRPCr4xVULH8bWGIBLQTyzRdIv6tO2a/view)
 - TryHackMe (Ongoing) – [Sasi-15](https://tryhackme.com/p/Sasi-15)
-- Elevate Labs Internship – *Certificate Pending*
-
+- Elevate Labs Internship - Elevate Labs
+- Cybersecurity Intern(x3) - FutureInterns, Redynox and Elevte Labs
 ---
 
 ## 📄 Resume
 
-- [Click to View Resume (PDF)](https://drive.google.com/file/d/1RaULKl9NMc39DlN2U-MsK_0XlMlAAm8o/view)
+- [Click to View Resume (PDF)]((https://drive.google.com/file/d/1BZqUM0paeUSRGNHpg6WnEgvHWdD_-zFx/view))
 
 ---
 
+## ✉️ Letter of Recommendation (LOR)
+
+- from **FutureInterns** -->[](https://drive.google.com/file/d/12WdNNMXCch6NrZ8H081wMkOT4Z2pHxZZ/view?usp=sharing)
+
+---
+
+## 🥇 Best Performer (Internship)
+
+- from **Elevate Labs** --> [](https://drive.google.com/file/d/1Fpg55aSV-LX-jg13bjeoqFDAnUXWQ2AS/view)
+
+
 ## 📬 Contact
 
-- 📧 Email: justsasi1521@gmail.com  
+- 📧 Email: justsasi1521@gmail.com, sasikmedabalimi@gmail.com
 - 📞 Phone: +91 7207158404  
 - 🌐 GitHub: [github.com/Sasi-15](https://github.com/Sasi-15)
 
