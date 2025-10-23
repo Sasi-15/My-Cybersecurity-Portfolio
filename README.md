@@ -37,8 +37,8 @@ Always learning, exploring, and contributing to the cybersecurity space. Current
 
 ## 📜 Certifications
 
-- Cisco Cybersecurity Essentials – Cisco Networking Academy (2025) - [](https://drive.google.com/file/d/1Fvxu0XvNj8d-j9QbLiwDqP8VU1by1ZbG/view)
-- Indian Servers – Cybersecurity Internship (2024) - [](https://drive.google.com/file/d/1MnRPCr4xVULH8bWGIBLQTyzRdIv6tO2a/view)
+- Cisco Cybersecurity Essentials – Cisco Networking Academy (2025) - [SasiKumar Medabalimi](https://drive.google.com/file/d/1Fvxu0XvNj8d-j9QbLiwDqP8VU1by1ZbG/view)
+- Indian Servers – Cybersecurity Internship (2024) - [Web App PenTester](https://drive.google.com/file/d/1MnRPCr4xVULH8bWGIBLQTyzRdIv6tO2a/view)
 - TryHackMe (Ongoing) – [Sasi-15](https://tryhackme.com/p/Sasi-15)
 - Elevate Labs Internship - Elevate Labs
 - Cybersecurity Intern(x3) - FutureInterns, Redynox and Elevte Labs
@@ -46,19 +46,19 @@ Always learning, exploring, and contributing to the cybersecurity space. Current
 
 ## 📄 Resume
 
-- [Click to View Resume (PDF)]((https://drive.google.com/file/d/1BZqUM0paeUSRGNHpg6WnEgvHWdD_-zFx/view))
+- [Click to View Resume (PDF)](https://drive.google.com/file/d/1BZqUM0paeUSRGNHpg6WnEgvHWdD_-zFx/view)
 
 ---
 
 ## ✉️ Letter of Recommendation (LOR)
 
-- from **FutureInterns** -->[](https://drive.google.com/file/d/12WdNNMXCch6NrZ8H081wMkOT4Z2pHxZZ/view?usp=sharing)
+- from **FutureInterns** -->[LOR](https://drive.google.com/file/d/12WdNNMXCch6NrZ8H081wMkOT4Z2pHxZZ/view?usp=sharing)
 
 ---
 
 ## 🥇 Best Performer (Internship)
 
-- from **Elevate Labs** --> [](https://drive.google.com/file/d/1Fpg55aSV-LX-jg13bjeoqFDAnUXWQ2AS/view)
+- from **Elevate Labs** --> [Best Performer](https://drive.google.com/file/d/1Fpg55aSV-LX-jg13bjeoqFDAnUXWQ2AS/view)
 
 
 ## 📬 Contact
